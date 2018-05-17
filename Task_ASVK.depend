@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1523816674 source:d:\documents\program\2 sem\task_asvk\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<queue>
+	<string>
+	<cstring>
+	"tinyxml.h"
+
+1523812407 d:\documents\program\2 sem\task_asvk\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1523812470 d:\documents\program\2 sem\task_asvk\tinystr.h
+	<assert.h>
+	<string.h>
+
+1523812451 source:d:\documents\program\2 sem\task_asvk\tinystr.cpp
+	"tinystr.h"
+
+1523812481 source:d:\documents\program\2 sem\task_asvk\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1523812487 source:d:\documents\program\2 sem\task_asvk\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1523812495 source:d:\documents\program\2 sem\task_asvk\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+

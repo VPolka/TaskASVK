@@ -1,0 +1,10 @@
+<system>
+<job name=”job1” start_deadline="0"  finish_deadline="55" duration="5"/>
+<job name=”job2” start_deadline="0"  finish_deadline="40" duration="10"/>
+<job name=”job3” start_deadline="0"  finish_deadline="45" duration="20"/>
+<job name=”job4” start_deadline="85" finish_deadline="105" duration="15"/>
+<job name=”job5” start_deadline="90" finish_deadline="110" duration="15"/>
+<job name=”job6” start_deadline="100" finish_deadline="155" duration="5"/>
+<job name=”job7” start_deadline="100" finish_deadline="140" duration="10"/>
+<job name=”job8” start_deadline="100" finish_deadline="145" duration="20"/>
+</system>
